@@ -25,7 +25,7 @@ export default function Contact(){
 <section id="contact" className="relative">
   <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
     <form
-      netlify
+      data-netfly="true"
       name="contact"
       onSubmit={handleSubmit}
       className="mx-auto my-auto lg:w-full md:w-full flex flex-col md:ml-auto w-2/5 md:py-8 mt-8 md:mt-0">
