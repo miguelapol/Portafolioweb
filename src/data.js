@@ -3,16 +3,16 @@ export const projects = [
       title: "uam citas medicas Back End",
       subtitle: "Node js",
       description:
-        "Este proyecto consiste en la creación de una aplicación web de citas médicas, que cuenta con un backend que proporciona las funciones necesarias para realizar operaciones CRUD (crear, leer, actualizar y eliminar) en una base de datos. La aplicación también cuenta con una conexión al frontend, lo que permite que los usuarios puedan interactuar con la interfaz gráfica para solicitar citas médicas.",
-      image: "https://user-images.githubusercontent.com/33709574/167510379-e00af8c9-ffb0-4aa7-9ece-83fc39331d6f.gif",
+        "Este proyecto consiste en la creación de una aplicación web de citas médicas, que cuenta con un backend que proporciona las funciones necesarias para realizar operaciones CRUD  en una base de datos.",
+      image: "./medicas.png",
       link: "https://github.com/miguelapol/api_uam_citas_medicas",
     },
     {
       title: "Pasteleria",
       subtitle: "Vuex",
       description:
-        "Este proyecto consiste en la creación de una página web para una pastelería, desarrollada utilizando la biblioteca Vuex de JavaScript. La página simula el proceso de envío de pedidos por parte de los clientes, utilizando la función de almacenamiento local (localstorage) para guardar los datos de los pedidos realizados.",
-      image: "https://github.com/miguelapol/pasteleria_VUEX/raw/main/home_page.png",
+        "Este proyecto consiste en la creación de una página web para una pastelería.La página simula el proceso de envío de pedidos por parte de los clientes, utilizando la función de almacenamiento local (localstorage).",
+      image: "./pasteleria.png",
       link: "https://github.com/miguelapol/pasteleria_VUEX",
     },
     {

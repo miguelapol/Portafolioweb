@@ -1,7 +1,5 @@
 import { HiCode } from "react-icons/hi";
 import { projects } from "../data";
-
-
 export default function Projects(){
     return (
         <section id="projects" className="text-gray-400 bg-gray-900 body-font">
