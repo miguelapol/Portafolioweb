@@ -35,8 +35,8 @@ export default function Contact(){
       <p className="leading-relaxed mb-5 text-center">
       Si estás interesado en conocer más sobre mi trabajo en el mundo del desarrollo web y cómo puedo contribuir a tu equipo, por favor completa el siguiente formulario de contacto. 
       </p>
-      <div className="relative mb-4 lg:mx-">
-        <label htmlFor="name" className="leading-7 text-sm text-gray-400">
+      <div className="flex flex-col justify-center lg:items-center md:py-2">
+        <label htmlFor="name" className="leading-7 text-sm text-gray-400 ">
           Nombre
         </label>
         <br/>
@@ -48,7 +48,8 @@ export default function Contact(){
           onChange={(e) => setName(e.target.value)}
         />
       </div>
-      <div className="relative mb-4">
+      
+      <div className="flex flex-col justify-center lg:items-center md:py-2">
         <label htmlFor="email" className="leading-7 text-sm text-gray-400">
           Correo electrónico
         </label>
@@ -61,7 +62,7 @@ export default function Contact(){
           onChange={(e) => setEmail(e.target.value)}
         />
       </div>
-      <div className="relative mb-4">
+      <div className="flex flex-col justify-center lg:items-center md:py-2">
         <label
           htmlFor="message"
           className="leading-7 text-sm text-gray-400">
@@ -75,11 +76,13 @@ export default function Contact(){
           onChange={(e) => setMessage(e.target.value)}
         />
       </div>
-      <button
-        type="submit"
-        className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg md:w-full lg:w-1/2">
-        Enviar
-      </button>
+      <div className="flex flex-col justify-center lg:items-center md:py-2">
+        <button
+          type="submit"
+          className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg md:w-full lg:w-1/2">
+          Enviar
+        </button>
+      </div>
     </form>
   </div>
 </section>
