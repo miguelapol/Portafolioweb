@@ -29,13 +29,13 @@ export default function Contact(){
       name="contact"
       onSubmit={handleSubmit}
       className="mx-auto  lg:w-full md:w-full flex flex-col md:ml-auto w-2/5 md:py-8 mt-8 md:mt-0">
-      <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-        ¡Contrátame!
+      <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font text-center">
+       Contacto
       </h2>
-      <p className="leading-relaxed mb-5">
+      <p className="leading-relaxed mb-5 text-center">
       Si estás interesado en conocer más sobre mi trabajo en el mundo del desarrollo web y cómo puedo contribuir a tu equipo, por favor completa el siguiente formulario de contacto. 
       </p>
-      <div className="relative mb-4">
+      <div className="relative mb-4 lg:mx-">
         <label htmlFor="name" className="leading-7 text-sm text-gray-400">
           Nombre
         </label>
