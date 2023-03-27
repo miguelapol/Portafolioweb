@@ -10,9 +10,7 @@ export default function Projects(){
                 Aplicaciones que he construido
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-                facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-                fuga dolore.
+              Estas aplicaciones no solo son un reflejo de mis habilidades en el desarrollo web, sino que también son proyectos que disfruté mucho creando y que demuestran mi creatividad y pasión por la tecnología. 
               </p>
             </div>
             <div className="flex flex-wrap -m-4">

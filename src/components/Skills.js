@@ -11,9 +11,7 @@ export default function Skills() {
             Habilidades y Tecnologías
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+          Aquí te presento una lista de las tecnologías que domino y disfruto trabajar con ellas para crear proyectos emocionantes e innovadores. Cada una de estas tecnologías es una pieza clave en mi conjunto de habilidades de desarrollo.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
