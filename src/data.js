@@ -53,6 +53,8 @@ export const projects = [
     "CSS",
     "JavaScript",
     "React",
-    "Node",
+    "Node JS",
     "Python",
+    "Git",
+    "Github"
   ]
