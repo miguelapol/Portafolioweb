@@ -32,7 +32,7 @@ export default function Contact(){
       <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font text-center">
        Contacto
       </h2>
-      <p className="leading-relaxed mb-5 text-center">
+      <p className="leading-relaxed mb-5 text-center mt-3">
       Si estás interesado en conocer más sobre mi trabajo en el mundo del desarrollo web y cómo puedo contribuir a tu equipo, por favor completa el siguiente formulario de contacto. 
       </p>
       <div className="flex flex-col justify-center lg:items-center md:py-2">
