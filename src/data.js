@@ -31,6 +31,14 @@ export const projects = [
       image: "./vacune.png",
       link: "https://github.com/miguelapol/vacuna_web",
     },
+    {
+      title: "Campaña de vacunación",
+      subtitle: "HTML,css y javascript",
+      description:
+        "Este proyecto consiste en la creación de una página web diseñada para promover y educar sobre las campañas de vacunación relacionadas con COVID-19. La página ha sido creada utilizando HTML, CSS y JavaScript.",
+      image: "./vacune.png",
+      link: "https://github.com/miguelapol/vacuna_web",
+    },
   ];
   export const testimonials = [
     {
