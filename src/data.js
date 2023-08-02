@@ -10,7 +10,7 @@ export const projects = [
       title: "Veterinaria FullStack", 
       description:
         "En este proyecto, desarrollaremos una página web donde los veterinarios podrán crear una cuenta para administrar a sus pacientes. ",
-      image: "./veterinarios.png",
+      image: "./veterinario.png",
       link: "https://github.com/miguelapol/veterinario_full_stack",
 
     },{
