@@ -10,7 +10,7 @@ export const projects = [
       title: "Veterinaria FullStack", 
       description:
         "En este proyecto, desarrollaremos una página web donde los veterinarios podrán crear una cuenta para administrar a sus pacientes. ",
-      image: "./veterinaria.png",
+      image: "./veterinarios.png",
       link: "https://github.com/miguelapol/veterinario_full_stack",
 
     },{
@@ -41,14 +41,7 @@ export const projects = [
         "Este proyecto consiste en la creación de una página web diseñada para promover y educar sobre las campañas de vacunación relacionadas con COVID-19. La página ha sido creada utilizando HTML, CSS y JavaScript.",
       image: "./vacune.png",
       link: "https://github.com/miguelapol/vacuna_web",
-    },
-    {
-      title: "Campaña de vacunación",
-      description:
-        "Este proyecto consiste en la creación de una página web diseñada para promover y educar sobre las campañas de vacunación relacionadas con COVID-19. La página ha sido creada utilizando HTML, CSS y JavaScript.",
-      image: "./vacune.png",
-      link: "https://github.com/miguelapol/vacuna_web",
-    },
+    }
   ];
   export const testimonials = [
     {
