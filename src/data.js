@@ -1,15 +1,28 @@
 export const projects = [
     {
-      title: "uam citas medicas Back End",
-      subtitle: "Node js",
+      title: "Administracion de citas medicas ",
       description:
-        "Este proyecto consiste en la creación de una aplicación web de citas médicas, que cuenta con un backend que proporciona las funciones necesarias para realizar operaciones CRUD  en una base de datos.",
+        "Este proyecto consiste en la creación de una aplicación web de citas médicas, es el lado del backend en el cual proporciona las funciones necesarias para realizar operaciones CRUD  en una base de datos.",
       image: "./medicas.png",
       link: "https://github.com/miguelapol/api_uam_citas_medicas",
     },
     {
+      title: "Veterinaria FullStack", 
+      description:
+        "En este proyecto, desarrollaremos una página web donde los veterinarios podrán crear una cuenta para administrar a sus pacientes. ",
+      image: "./veterinaria.png",
+      link: "https://github.com/miguelapol/veterinario_full_stack",
+
+    },{
+      title: "Bot de Telegram notificador de pagos", 
+      description:
+        "principal de este ChatBot es notificar por mensaje a alumnos sobre los pagos correspondientes, ya que la mayoría no realiza el pago ya se por atraso u otra situación.",
+      image: "./mini_bot.png",
+      link: "https://github.com/miguelapol/bot_python_uam",
+
+    },
+    {
       title: "Pasteleria",
-      subtitle: "Vuex",
       description:
         "Este proyecto consiste en la creación de una página web para una pastelería.La página simula el proceso de envío de pedidos por parte de los clientes, utilizando la función de almacenamiento local (localstorage).",
       image: "./pasteleria.png",
@@ -17,7 +30,6 @@ export const projects = [
     },
     {
       title: "Pokedex API",
-      subtitle: "API",
       description:
         "Este proyecto consiste en la creación de una página web que consume la API de Pokemon para proporcionar información sobre los diferentes Pokemon. La página ha sido creada utilizando HTML, CSS y JavaScript.",
       image: "./pokedex.png",
@@ -25,7 +37,6 @@ export const projects = [
     },
     {
       title: "Campaña de vacunación",
-      subtitle: "HTML,css y javascript",
       description:
         "Este proyecto consiste en la creación de una página web diseñada para promover y educar sobre las campañas de vacunación relacionadas con COVID-19. La página ha sido creada utilizando HTML, CSS y JavaScript.",
       image: "./vacune.png",
@@ -33,7 +44,6 @@ export const projects = [
     },
     {
       title: "Campaña de vacunación",
-      subtitle: "HTML,css y javascript",
       description:
         "Este proyecto consiste en la creación de una página web diseñada para promover y educar sobre las campañas de vacunación relacionadas con COVID-19. La página ha sido creada utilizando HTML, CSS y JavaScript.",
       image: "./vacune.png",
